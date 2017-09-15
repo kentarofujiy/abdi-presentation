@@ -1,0 +1,24 @@
+/* Add here all your CSS customizations */
+.rev_slider .tp-mask-wrap .tp-caption, .rev_slider .tp-mask-wrap :last-child, .wpb_text_column .rev_slider .tp-mask-wrap .tp-caption, .wpb_text_column .rev_slider .tp-mask-wrap :last-child {
+  color: #ffffff;
+}
+.parallax-background {
+    background-size: contain;
+    background-position-x: 50% !important;
+}
+.col-md-12 {
+  padding: 0px !important;
+}
+ .botao-branco {
+   border-color: #ffffff !important;
+ }
+ .botao-branco:hover {
+   color: grey !important;
+   background-color: #ffffff !important;
+   border-color: #ffffff !important;
+ }
+ .botao-branco:focus {
+   color: grey !important;
+   background-color: #ffffff !important;
+   border-color: #ffffff !important;
+ }
